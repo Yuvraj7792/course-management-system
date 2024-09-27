@@ -10,5 +10,5 @@ public class CoursemanagementApplication {
 		SpringApplication.run(CoursemanagementApplication.class, args);
 		System.out.println("Welcome to Course Management System");
 	}
-
+//todo 12243
 }
